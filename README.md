@@ -1,5 +1,3 @@
-# Projects
-A portafolio of projects I've completed and in progress
 # 💫 About Me:
 🔭 I’m currently working as a Business Intelligence Analyst<br>👯 I’m looking to collaborate in Online and In-Person data science study groups<br>🤝 I’m looking for help with mentorship and finding like-minded connections<br>🌱 I’m currently learning R programming<br>💬 Ask me about music production, YouTube content creation, books and podcasts<br>⚡ Fun fact I have a music production business: www.phantasiis.com
 
