@@ -1,6 +1,6 @@
 # 👨🏽‍💻 About Me:
 🧠 I have a background in psychology, business intelligence, and data analytics
-<br> 👷🏾‍♂️ I have worked in IT in the utility industry, non-profits, and education
+<br> 👷🏾‍♂️ I have worked in IT in the utilities, non-profits, and education sectors
 <br>🕵🏾‍♂️ I’m looking to network online and in person with fellow data professionals<br>🤝 I enjoy helping via mentorship and finding like-minded connections<br>🌱 I’m currently using Python for Machine Learning Models<br> 💬 Ask me about data, psychology, books, and podcasts<br>🎓 MS in Data Analytics<br>⚡ Fun fact: I enjoy making music in my free time<br>🌐 Personal website: www.ernestogonzales.com
 
 
