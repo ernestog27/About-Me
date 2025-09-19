@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ernestoanalyst) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eg-data) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ErnestoAnalyst)
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Tableau](https://img.shields.io/badge/Tableau-orange) ![PowerBI](https://img.shields.io/badge/PowerBI-yellow)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Tableau](https://img.shields.io/badge/Tableau-orange) ![PowerBI](https://img.shields.io/badge/PowerBI-yellow) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 
 
 # 📊 GitHub Stats:
