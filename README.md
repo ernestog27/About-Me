@@ -1,14 +1,14 @@
 # 👨🏽‍💻 About Me:
 🧠 I have a background in psychology, business intelligence, and data analytics
 <br> 👷🏾‍♂️ I have worked in IT in the utilities, non-profits, and education sectors
-<br>🕵🏾‍♂️ I’m looking to network online and in person with fellow data professionals<br>🤝 I enjoy helping via mentorship and finding like-minded connections<br>🌱 I’m currently using Python for Machine Learning Models<br> 💬 Ask me about data, psychology, books, and podcasts<br>🎓 MS in Data Analytics<br>⚡ Fun fact: I enjoy making music in my free time<br>🌐 Personal website: www.ernestogonzales.com
+<br>🕵🏾‍♂️ I’m looking to network online and in person with fellow data professionals<br>🤝 I enjoy helping via mentorship and finding like-minded connections<br>🌱 I’m currently using Python for Machine Learning Models<br> 💬 Ask me about data, psychology, books, and podcasts<br>🎓 MS in Data Analytics<br>⚡ I enjoy making music in my free time<br>🌐 Personal website: www.ernestogonzales.com
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ernestoanalyst) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eg-data) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ErnestoAnalyst)
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Tableau](https://img.shields.io/badge/Tableau-orange) ![PowerBI](https://img.shields.io/badge/PowerBI-yellow) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Tableau](https://img.shields.io/badge/Tableau-orange) ![PowerBI](https://img.shields.io/badge/PowerBI-yellow)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 
 
 # 📊 GitHub Stats:
